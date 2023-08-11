@@ -1,10 +1,5 @@
 - 👋 Hi, I’m @CHAUASIYA
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-CHAUASIYA/CHAUASIYA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+-💬 Ask me about "Crafting interactive UIs with React 🚀, building at the speed of light with Vite ⚡, and giving life to 3D worlds with Three.js 🛠️🌐🎮!"
+- 📫 How to reach me chaurasiyasourav5@gmail.com
+- 📄 Know about my experience                                                                                                                    
+- ⚡ Fun fact "🎨 Front-end developers are modern-day digital architects, creating virtual spaces that seamlessly blend design and functionality. 🏗️"
